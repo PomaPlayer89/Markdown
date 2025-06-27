@@ -80,7 +80,8 @@
 
 Раздел «Отчетность»:
 
-![Рисунок 5](https://github.com/user-attachments/assets/b4679d39-ef26-49dc-bbe5-cbcbbcab5d5f)
+![Рисунок 21](https://github.com/user-attachments/assets/f80d219e-370a-40e8-bd0a-179326fc1f96)
+
 
 Позволяет пользователю настроить:
 - Период отчета
