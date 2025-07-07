@@ -215,7 +215,7 @@
 
 Также карта центрируется по заданным координатам. В точке, по которой осуществлялся поиск, устанавливается маркер:
 
-![РисунокРисунок](https://github.com/user-attachments/assets/196ce3fe-9fe9-4766-aefb-bcee55561796)
+![location-marker](https://github.com/user-attachments/assets/e58d747b-f3b5-4d32-a7ae-2275411ecbee)
 ---
 
 ## 7. Статистика точек продаж  
